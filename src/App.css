@@ -1,0 +1,49 @@
+.container {
+  height: 100%;
+  width: 100%;
+
+  margin: 0;
+  padding: 0;
+}
+
+.backgroundColor {
+  height: 100%;
+  width: 100%;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 50px;
+}
+
+.portfolioListContainer {
+}
+
+.imageList {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  list-style-type: none;
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 150px;
+}
+
+.imageCaption {
+  width: 950px;
+  margin-top: 50px;
+}
+
+.bottomBuffer {
+  height: 200px;
+  width: 100%;
+}
