@@ -61,7 +61,7 @@ function App() {
       <div className="container">
         <div className="backgroundColor">
           <div className="header">
-            <h1>Digital Portfolio for TecAce</h1>
+            <h1>Digital Portfolio</h1>
             <h2>Ernest Chae</h2>
           </div>
           <div className="portfolioListContainer">
